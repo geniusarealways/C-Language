@@ -1,6 +1,6 @@
 #include <stdio.h>
 void main() {
-    float totalmarks, obtainedmarks, percentage;
+    float totalmarks,percentage;
     float physics, chemistry, maths, english, hindi;
      printf("Enter the Physics marks: "); 
       scanf("%f", &physics);
