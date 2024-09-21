@@ -1,3 +1,4 @@
+//Predict the output in dry runa and then run the program.
 #include<stdio.h>
 void main()
 {
