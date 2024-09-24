@@ -6,8 +6,9 @@ void main()
 	scanf("%d%d",&cp,&sp);
 	if(sp-cp>0){printf("Profit");
 	}
-	if(sp=cp){printf("Neither Loss nor Profit");
+	if(sp==cp){printf("Neither Loss nor Profit");
 	}
 		else{printf("Loss");
 	}
+	
 }
